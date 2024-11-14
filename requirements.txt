@@ -1,0 +1,14 @@
+pandas
+numpy
+speechrecognition
+wikipedia
+openai
+pyaudio
+pyttsx3
+datetime
+python-decouple
+keyboard
+pywhatkit
+bs4
+playsound
+-e .
