@@ -1,4 +1,4 @@
-# 🤖 D-Bot: The AI Virtual Assistant
+# 🤖 VirtuBot: The AI Virtual Assistant
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg) ![NLP](https://img.shields.io/badge/NLP-Natural%20Language%20Processing-brightgreen.svg) ![Pyttsx3](https://img.shields.io/badge/pyttsx3-Text%20to%20Speech-orange.svg)
 
