@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg) ![NLP](https://img.shields.io/badge/NLP-Natural%20Language%20Processing-brightgreen.svg) ![Pyttsx3](https://img.shields.io/badge/pyttsx3-Text%20to%20Speech-orange.svg)
 
-D-Bot is a voice-activated AI assistant that can handle your day-to-day tasks. From responding to voice commands to automating processes, D-Bot is designed to make life easier.
+VirtuBot is a voice-activated AI assistant that can handle your day-to-day tasks. From responding to voice commands to automating processes, D-Bot is designed to make life easier.
 
 🚀 **Empower your desktop with D-Bot** and bring seamless task automation with speech recognition, NLP, and more!
 
@@ -18,7 +18,7 @@ D-Bot is a voice-activated AI assistant that can handle your day-to-day tasks. F
 ---
 
 ## 💻 How it Works
-1. **Start D_Bot**: After running `python main.py`, the assistant will activate and start listening for your voice commands.
+1. **Start VirtuBot**: After running `python main.py`, the assistant will activate and start listening for your voice commands.
 
 2. **Interact**: You can ask questions or give commands such as:
 
